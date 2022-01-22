@@ -4,6 +4,8 @@
 
 <img src = 'https://github.com/NikitiusIvanov/russian_youtube_coments_sentimen_analysis/blob/main/visualization/download.png' width = '800'>
 
+[Тетрадка jupyter-notebook с решением задачи](https://github.com/NikitiusIvanov/russian_youtube_coments_sentimen_analysis/blob/main/sentiment_analysis.ipynb)
+
 Для решения задачи мы будем обучать бинарный классификатор LogisticRegression на векторных представлениях TF-IDF
 
 В процессе построения нашео классификатора мы поучимся :
